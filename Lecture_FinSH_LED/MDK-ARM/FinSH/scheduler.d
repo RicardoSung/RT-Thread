@@ -1,0 +1,12 @@
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/scheduler.c
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtthread.h
+finsh\scheduler.o: ../Inc/rtconfig.h
+finsh\scheduler.o: ../Inc/RTE_Components.h
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtdebug.h
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtdef.h
+finsh\scheduler.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtservice.h
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtm.h
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtthread.h
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/finsh_api.h
+finsh\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rthw.h
